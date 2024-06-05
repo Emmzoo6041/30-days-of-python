@@ -1,6 +1,7 @@
 import random
 import string
 
+#Are you actively coding by yourself
 def generate_password(length, use_uppercase, use_lowercase, use_digits, use_special):
     character_pool = ''
     
