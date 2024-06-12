@@ -1,6 +1,6 @@
 # 🎉 30-Day Fun Python Project Challenge 🚀
 
-Welcome to the 30-Day Fun Python Project Challenge! This is a collaborative effort to enhance our Python skills and build amazing projects together. Every day, we'll work on a new Python project and push the code to GitHub at 10:30 PM. Join us on this exciting journey!
+Welcome to the 30-Day Fun Python Project Challenge! From 15th June----This is a collaborative effort to enhance our Python skills and build amazing projects together. Every day, we'll work on a new Python project and push the code to GitHub at 10:30 PM. Join us on this exciting journey!
 
 ## 📅 Challenge Schedule
 
